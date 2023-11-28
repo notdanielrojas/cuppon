@@ -1,0 +1,15 @@
+/* Body */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+/* Background Image */
+.products {
+  background-image: url("../img/fondo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  -webkit-background-size: auto 150%;
+}
